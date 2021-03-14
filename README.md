@@ -18,11 +18,11 @@ You can optionally add an image to each question by including the following prop
 ##### `src` for the img url and `showOnAnswer` (bool) to show the image only when 'Show Answers' is clicked
 
 #### Example
-`{
-    q: 'The question,
-    a: 'The Answer',
-    img: {
-        src: http://image.url,
-        showOnAnswer: false
-    }
+`{  
+    q: 'The question,  
+    a: 'The Answer',  
+    img: {  
+        src: http://image.url,  
+        showOnAnswer: false  
+    }  
 }`
