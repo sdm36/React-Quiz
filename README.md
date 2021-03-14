@@ -8,7 +8,12 @@ A lightweight quiz which allows for inifinte questions created in React.
 
 
 A little project to help manage online Quizzes in the age of Coronavirus.
-Update `src/Questions.js` with an arry of question objects.
+
+## Personalize the quiz
+Update the title, date and category (comment out to remove) properties in the  `QuizHeader` Component in **/src/QuizDashboard.js** 
+
+## Setting Questions & Answers
+Update `src/Questions.js` with an array of question objects for each round.
 Each Question object should have the following manadatory properties:
 #### `q` The Question
 #### `a` The Answer to the question
@@ -26,3 +31,9 @@ You can optionally add an image to each question by including the following prop
         showOnAnswer: false  
     }  
 }`
+
+## Adding Rounds
+- Add the questions to Question.js
+- Import your new round. Add the name to the import on Ln 2 of QuizDashboard
+- Add properties to `rounds` variable in QuizDashboard Ln 8 right at the top (increment the flag by one for each new round)
+-  

@@ -74,3 +74,47 @@ export const TieBreakers = [{
         showOnAnswer: true
     } 
 }]
+
+export const RoundTwo = [{
+    q: 'you get the idea',
+    a: 'hopefully!',
+    img: {
+        src: 'https://blankposter.com/wp-content/uploads/2019/03/Filippos_Fragkogiannis_Yes-1-357x500.jpg',
+        showOnAnswer: true
+    },
+}, {
+    q: 'you get the idea',
+    a: 'hopefully!',
+    img: {
+        src: 'https://blankposter.com/wp-content/uploads/2019/03/Filippos_Fragkogiannis_Yes-1-357x500.jpg',
+        showOnAnswer: true
+    },
+}, {
+    q: 'Tie Break Two',
+    a: 'Answer Two'
+}, {
+    q: 'Tie Break Three',
+    a: 'answer 3'
+}]
+
+export const RoundThree = [{
+    q: 'you get the idea',
+    a: 'hopefully!',
+    img: {
+        src: 'https://blankposter.com/wp-content/uploads/2019/03/Filippos_Fragkogiannis_Yes-1-357x500.jpg',
+        showOnAnswer: true
+    },
+}, {
+    q: 'you get the idea',
+    a: 'hopefully!',
+    img: {
+        src: 'https://blankposter.com/wp-content/uploads/2019/03/Filippos_Fragkogiannis_Yes-1-357x500.jpg',
+        showOnAnswer: true
+    },
+}, {
+    q: 'ROUND £',
+    a: 'Answer Two'
+}, {
+    q: 'Round Three',
+    a: 'answer 3'
+}]
