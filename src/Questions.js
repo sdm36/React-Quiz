@@ -15,28 +15,28 @@
  */
 
  export const Questions = [{ 
-    q: 'In the record pressing process, what is origination?', 
-    a: 'The process of creating ("growing") stampers from the Master', 
+     q: 'question 1',
+     a: 'answer 1',
     img: {
         src: 'https://shaolindrunkenmonk.co.uk/blog/wp-content/uploads/2020/06/SDM-KENNET-ALL-RADIO-SHOWS-2020-GOLD-300x300.jpg',
         showOnAnswer: true
     }
 }, {
-    q: 'What do Shane at Finyl Tweak, Dan at Metropolis?, Neil at Masterpiece, Simon at The Exchange and Beau at Heathmans do?', 
-    a: 'Mastering Engineers',
+     q: 'question 2',
+     a: 'answer 2',
     img: {
         src: 'https://shaolindrunkenmonk.co.uk/blog/wp-content/uploads/2020/06/SDM-KENNET-ALL-RADIO-SHOWS-2020-GOLD-300x300.jpg',
         showOnAnswer: false
     }
 }, { 
-    q: 'Which Record Label was James Murdoch involved with in the late nineties?', 
-    a: 'Rawkus Records' 
+     q: 'question 3',
+     a: 'answer 3'
 }, { 
-    q: 'In music production terms what does LFO stand for?', 
-    a: 'Low-frequency oscillation' 
+     q: 'question 4',
+     a: 'answer 4'
 }, { 
-    q: 'What did Goldie do to DJ Redeyes upon encountering him at Herbal shortly after Redeyes made a remix of Goldies Inner City Life track?', 
-    a: 'Threw him down the stairs!' 
+     q: 'question 5',
+     a: 'answer 5'
 }, { 
     q: 'question 6', 
     a: 'answer 6' 

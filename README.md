@@ -1,7 +1,7 @@
 # React Quiz
 
 A little project to help manage online Quizzes in the age of Coronavirus.
-Update src/Questions.js with an arry of questions objects.
+Update `src/Questions.js` with an arry of question objects.
 Each Question object should have the following manadatory properties:
 #### `q:` The Question
 #### `a:` The Answer to the question
