@@ -33,7 +33,6 @@ You can optionally add an image to each question by including the following prop
 }`
 
 ## Adding Rounds
-- Add the questions to Question.js
+After adding the questions to Questions.js
 - Import your new round. Add the name to the import on Ln 2 of QuizDashboard
 - Add properties to `rounds` variable in QuizDashboard Ln 8 right at the top (increment the flag by one for each new round)
--  
